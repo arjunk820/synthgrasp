@@ -56,6 +56,9 @@ Screenshot → Object Detection → Physics Sim → Grasp Dataset
   (Chrome, Firefox, or Safari with WebGL + WebAssembly)
 - [Anthropic API key](https://console.anthropic.com/) for object detection
 
+### Optional
+- [Marble/World Labs API Key](https://platform.worldlabs.ai/api-keys) for world generation
+
 ### Run It
 
 ```bash
