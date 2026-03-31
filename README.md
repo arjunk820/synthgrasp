@@ -60,8 +60,8 @@ Screenshot → Object Detection → Physics Sim → Grasp Dataset
 
 ```bash
 # Clone the repo
-git clone https://github.com/arjunkantamsetty/world-model-hack.git
-cd world-model-hack
+git clone https://github.com/arjunkantamsetty/synthgrasp.git
+cd synthgrasp
 
 # Start the local server
 python3 scripts/serve.py
